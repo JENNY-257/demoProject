@@ -1,0 +1,17 @@
+form{
+    margin-left: 400px;
+    margin-top: 200px;
+}
+label{
+    display: block;
+    padding-top: 10px;
+    
+
+}
+input{
+    width: 40%;
+    padding: 10px;
+}
+body{
+    background-image: url('backg.jpg');
+}
